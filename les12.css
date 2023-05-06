@@ -1,0 +1,69 @@
+header{
+background-color: #b300ff;
+width: 100%;
+height: 100px;
+}
+footer{
+background-color: #b300ff;
+width: 100%;
+height: 100px;
+}
+table{
+background-color: grey; border: solid;
+width: 100%;
+}
+th{
+background-color: #a81ca5;
+}
+#csstable td{
+    text-align: center; 
+    vertical-align: middle;
+}
+.Jonas{
+    background-color: blue;
+}
+.Jonas-2{
+    background-color: green;
+}
+.Eva{
+    background-color: yellow;
+}
+.Eva-2{
+    background-color: aqua;
+}
+.Joost{
+    background-color: rgb(255, 0, 76)
+}
+.Joost-2{
+    background-color: bisque;
+}
+.Amber{
+    background-color: aliceblue;
+}
+.Amber-2{
+    background-color: #35019f;
+}
+.A{
+    background-color: yellowgreen;
+}
+.B{
+    background-color: greenyellow;
+}
+.C{
+    background-color: rgb(3, 40, 248);
+}
+.D{
+    background-color: burlywood;
+}
+.E{
+    background-color: #783bf3;
+}
+.F{
+    background-color: #bf47f2;
+}
+.G{
+    background-color: gray;
+}
+.H{
+    background-color: rgb(233, 127, 127);
+}
